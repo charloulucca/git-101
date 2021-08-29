@@ -3,7 +3,9 @@ body{
   color: green;
   font-size: 25px;
   font-family: Helvetica;
+  background-color: #D23333;
 }
+
 #logo {
 	height: 80px;
 	width: 40px;
