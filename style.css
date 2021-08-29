@@ -1,0 +1,10 @@
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+#logo {
+	height: 80px;
+	width: 40px;
+}
