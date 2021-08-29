@@ -1,12 +1,20 @@
 body{
   background: rgb(245,245,245);
-  color: green;
+  color: white;
   font-size: 25px;
   font-family: Helvetica;
   background-color: #D23333;
 }
 
 #logo {
-	height: 80px;
-	width: 40px;
+	height: 200px;
+	width: 300px;
+	text-align: center;
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+
 }
